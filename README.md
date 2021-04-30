@@ -1,2 +1,4 @@
-# Python_Procedural_OrientadoO
-Resumo dos meus estudos nos paradigmas mais utilizados em Python.
+# Python, Procedural e Orientado à Objetos
+***
+
+- [X] Resumo dos meus estudos nos paradigmas mais utilizados em Python.
